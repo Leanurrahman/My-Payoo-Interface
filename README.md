@@ -11,6 +11,18 @@ The application simulates key banking operations including adding money, cashout
 Check out the live version of this project deployed on Vercel:
 👉 **[🚀 View Live Demo Here](https://my-payoo.vercel.app/)**
 
+## ✨ Features
+
+- 🔐 **Simple Login Interface**: Secure authentication with predefined credentials.
+- 🏠 **Home Dashboard**: Real-time view of account balance and quick access to all services.
+- ➕ **Add Money**: Simulate depositing funds into your PAYOO account instantly.
+- 💸 **Cash Out**: Withdraw money with secure PIN verification.
+- 💸 **Money Transfer**: Send money to other users securely with validation.
+- 🎁 **Bonus Rewards**: Earn and track promotional bonuses automatically.
+- 📜 **Transaction History**: Complete, dynamic record of all financial activities.
+- 🛡️ **PIN Security System**: Every sensitive transaction requires PIN authentication.
+- 📱 **Responsive UI**: Fully adaptive design built with **DaisyUI** for mobile, tablet, and desktop.
+  
 <h3>UI</h3>
 
 <img width="450" height="932" alt="image" src="https://github.com/user-attachments/assets/af57237b-d156-457c-9332-9c8a99d00cad" />
@@ -25,17 +37,7 @@ You can log in and test all features using the following credentials:
 
 > ⚠️ **Disclaimer:** This is a frontend simulation project for educational purposes. No real money is involved, and transaction data resets upon page refresh.
 
-## ✨ Features
 
-- 🔐 **Simple Login Interface**: Secure authentication with predefined credentials.
-- 🏠 **Home Dashboard**: Real-time view of account balance and quick access to all services.
-- ➕ **Add Money**: Simulate depositing funds into your PAYOO account instantly.
-- 💸 **Cash Out**: Withdraw money with secure PIN verification.
-- 💸 **Money Transfer**: Send money to other users securely with validation.
-- 🎁 **Bonus Rewards**: Earn and track promotional bonuses automatically.
-- 📜 **Transaction History**: Complete, dynamic record of all financial activities.
-- 🛡️ **PIN Security System**: Every sensitive transaction requires PIN authentication.
-- 📱 **Responsive UI**: Fully adaptive design built with **DaisyUI** for mobile, tablet, and desktop.
 
 ## 🚀 How to Run Locally
 
