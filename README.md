@@ -14,7 +14,6 @@ Check out the live version of this project deployed on Vercel:
 <img width="450" height="1189" alt="image" src="https://github.com/user-attachments/assets/90f83c09-b5c7-4ee0-a05a-6512b8238add" />
 <img width="450" height="1189" alt="image" src="https://github.com/user-attachments/assets/7aeceb9a-0766-45ed-89ef-b44a20b68243" />
 <img width="450" height="1189" alt="image" src="https://github.com/user-attachments/assets/298170d7-5df5-40b3-9424-6a7841b6cc8b" />
-<img width="450" height="958" alt="image" src="https://github.com/user-attachments/assets/917b0b91-2d00-42f1-897c-16e699508929" />
 
 ## 🔐 Test Credentials
 You can log in and test all features using the following credentials:
