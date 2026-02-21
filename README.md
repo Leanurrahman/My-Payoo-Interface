@@ -9,16 +9,15 @@ The application simulates key banking operations including adding money, cashout
 
 ## 🌐 Live Demo
 Check out the live version of this project deployed on Vercel:
-👉 **[View Live Demo]([[https://my-payoo-interface.vercel.app](https://my-payoo.vercel.app/)](https://my-payoo.vercel.app/))** 
-*(Note: If the link doesn't work immediately, please ensure you have connected your repository to Vercel first. See deployment instructions below.)*
+👉 **[🚀 View Live Demo Here](https://my-payoo.vercel.app/)**
 
 ## 🔐 Test Credentials
 You can log in and test all features using the following credentials:
-
+- **Username:** `1234`
 - **Password:** `1234`
-- **PIN Code:** `1234` (Used for Cash Out & Transfer)
+- **PIN Code:** `1234` (Required for Cash Out & Money Transfer)
 
-> ⚠️ **Disclaimer:** This is a frontend simulation project. No real money is involved, and data resets upon page refresh.
+> ⚠️ **Disclaimer:** This is a frontend simulation project for educational purposes. No real money is involved, and transaction data resets upon page refresh.
 
 ## ✨ Features
 
@@ -38,3 +37,10 @@ You can log in and test all features using the following credentials:
 ```bash
 git clone https://github.com/Leanurrahman/My-Payoo-Interface.git
 cd My-Payoo-Interface
+
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com"></script>
+<!-- DaisyUI -->
+<link href="https://cdn.jsdelivr.net/npm/daisyui@latest/dist/full.css" rel="stylesheet" type="text/css" />
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
